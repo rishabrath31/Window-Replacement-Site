@@ -9,7 +9,7 @@
   animation: fadeInDown 1s ease;
 }
 
-.logo i {
+.custom-header i {
   font-size: 28px;
   color: #0288a7;
 }
