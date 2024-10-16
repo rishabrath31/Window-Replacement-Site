@@ -172,9 +172,7 @@
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
 /* BLOG SECTION STYLING */
-.blog-sec {
-  margin: 20px 0;
-}
+
 .blog-sec h1 {
   font-size: 36px;
   font-weight: bold;
@@ -195,7 +193,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 700px;
+  height: 600px;
   background-image: url("./images/contact.jpg");
   background-size: cover;
   background-position: center;
